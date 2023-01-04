@@ -3,7 +3,6 @@ import java.util.Arrays;
 
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
     InterviewProblemOne interviewOne = new InterviewProblemOne();
     ArrayList<Integer> intArray = new ArrayList<>();
     intArray.add(3);
